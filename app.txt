@@ -1,2 +1,10 @@
-collaboration Demo project
-Version 1.0
+Collaboration Demo Project Version 1.0
+
+Description: This project demonstrates basic collaboration and teamwork workflows.
+
+Features:
+
+Team collaboration
+Task coordination
+Sharing project updates
+
